@@ -1,0 +1,23 @@
+{
+  "name": "typescript-proj",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khaledshaikh2244/typescript-proj.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khaledshaikh2244/typescript-proj/issues"
+  },
+  "homepage": "https://github.com/Khaledshaikh2244/typescript-proj#readme",
+  "description": ""
+}
